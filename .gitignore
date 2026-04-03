@@ -179,3 +179,16 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# JavaScript / Node
+node_modules/
+dist/
+dist-ssr/
+*.local
+.npm/
+
+# Agent & Tooling
+.agents/
+.junie/
+.stitch/
+skills-lock.json
